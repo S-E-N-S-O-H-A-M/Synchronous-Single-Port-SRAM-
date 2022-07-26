@@ -1,1 +1,1 @@
-# Synchronous-Single-Port-SRAM-
+# Synchronous-Single-Port-SRAM
